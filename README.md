@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Oscar Diaz
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Docker and Kubernetes.
+- 💞️ I’m looking to collaborate on Python projects.
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/oscar-diaz-iberico/)
